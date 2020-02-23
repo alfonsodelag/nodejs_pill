@@ -1,0 +1,9 @@
+/node_modules
+__main.js
+_main.js
+.vscode/*
+request.json
+.env
+/docu
+_gethtml.js
+_getLocation.js

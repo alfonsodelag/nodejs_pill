@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_pill",
+  "version": "1.0.0",
+  "description": "## Tasks",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crismoreno/nodejs_pill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crismoreno/nodejs_pill/issues"
+  },
+  "homepage": "https://github.com/crismoreno/nodejs_pill#readme",
+  "dependencies": {
+    "cities": "^2.0.0",
+    "dotenv": "^8.2.0"
+  }
+}
